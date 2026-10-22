@@ -1,0 +1,13 @@
+date,workout_type,muscle_group,duration_min,exercises,sets,reps,weight_kg
+2026-10-01,Push,Chest,60,4,12,10,40
+2026-10-02,Pull,Back,55,4,12,10,45
+2026-10-03,Legs,Legs,70,5,15,10,60
+2026-10-05,Push,Shoulders,50,3,12,10,12
+2026-10-06,Pull,Back,60,4,10,10,50
+2026-10-07,Legs,Legs,65,5,12,10,70
+2026-10-09,Push,Chest,55,4,10,10,45
+2026-10-10,Pull,Biceps,45,3,12,10,12
+2026-10-11,Legs,Legs,75,5,10,10,80
+2026-10-13,Push,Shoulders,50,4,12,10,14
+2026-10-14,Pull,Back,60,4,10,10,55
+2026-10-15,Legs,Legs,65,5,12,10,75
